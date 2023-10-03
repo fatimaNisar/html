@@ -1,6 +1,6 @@
 
 Where can I download Wing Manager 1.0.9?
-Article Type: Q A Article Number: 000109802 Last Modified: 3/31/2023
+
 Question
 Wing Manager needs to be updated to 1.0.9 where can I download this?
 Environment
