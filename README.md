@@ -1,26 +1,21 @@
-Set up the Asana connector in Airbyte
+Where can I download Wing Manager 1.0.9?
 
-For Airbyte Cloud:
+Question
 
-Log into your Airbyte Cloud account.
+Wing Manager needs to be updated to 1.0.9 where can I download this?
 
-In the left navigation bar, click Sources. In the top-right corner, click +new source.
+Environment
 
-Set the name for your source
+Wing Manager(1.0.8)
 
-Enter your personal_access_token
+Answer
 
-Click Set up source
+Software can be found in the "Products" page for Wing Manager:
 
-For Airbyte OSS:
+https://extremeportal.force.com/ExtrProductDetail?id=01t2T000002kZbAQAU
+Additional notes
+If clicking the filename link on the left results in a 404 page you can download the file from the main products page using the download link shown in the following screenshot, highlighted with a red box
 
-Navigate to the Airbyte Open Source dashboard
+Windows users need to update by Feb 23rd 2023 using the file linked in this article.
 
-In the left navigation bar, click Sources. In the top-right corner, click +new source.
-
-Set the name for your source
-
-Enter your personal_access_token
-
-Click Set up source
-
+MacOS users- There has been a delay in releasing the new version for MAC OS, please see this article for updates. 
