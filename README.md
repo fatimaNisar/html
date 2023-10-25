@@ -1,4 +1,4 @@
-Step 1: Set up the Asana connector in Airbyte
+How Set up the Asana connector in Airbyte
 
 For Airbyte Cloud:
 
